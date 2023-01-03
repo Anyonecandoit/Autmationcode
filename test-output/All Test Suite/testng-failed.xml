@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [All Test Suite]">
+  <test thread-count="5" name="/Users/amuthansakthivel/IdeaProjects/MasterFramework/src/test/java/com/tmb/tests/web/AddUsersTest.java(failed)">
+    <classes>
+      <class name="com.tmb.tests.OrangeHRMTests">
+        <methods>
+          <include name="tearDown"/>
+          <include name="newTest"/>
+          <include name="loginLogoutTest"/>
+          <include name="setUp"/>
+        </methods>
+      </class> <!-- com.tmb.tests.OrangeHRMTests -->
+    </classes>
+  </test> <!-- /Users/amuthansakthivel/IdeaProjects/MasterFramework/src/test/java/com/tmb/tests/web/AddUsersTest.java(failed) -->
+</suite> <!-- Failed suite [All Test Suite] -->
