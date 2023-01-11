@@ -9,6 +9,11 @@ import org.openqa.selenium.WebElement;
 import static com.tmb.enums.LogType.PASS;
 import static com.tmb.reports.FrameworkLogger.log;
 
+
+
+// common functionalities .
+
+
 public class BasePage {
 
 	/**
@@ -47,6 +52,10 @@ public class BasePage {
 		log(PASS, value + " is entered successfully in " + elementname);
 	}
 
+	
+	
+	
+	
 	/**
 	 * Return page title of webpage in String
 	 * 

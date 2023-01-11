@@ -48,7 +48,7 @@ public class BaseTest {
 	/**
 	 * Terminates the browser instance
 	 * 
-	 * @author Amuthan Sakthivel Jan 22, 2021
+	 * @author  Jan 22, 2021
 	 */
 	@AfterMethod
 	protected void tearDown() {
